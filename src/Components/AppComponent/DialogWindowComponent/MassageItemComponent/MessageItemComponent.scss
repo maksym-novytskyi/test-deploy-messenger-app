@@ -1,0 +1,49 @@
+.messageItemComponent__position-left{
+  margin: 20px 10px;
+  display: flex;
+  justify-content: flex-start;
+  .messageItemComponent__position-block{
+    display: grid;
+    grid-template-columns: 40px 2fr;
+    .messageItemComponent__content{
+      display: grid;
+      grid-template-rows: 1fr 10px;
+      .messageItemComponent__content-message{
+        margin: 5px;
+        padding: 10px;
+        border-radius: 20px;
+        background-color: #131348;
+        color: white;
+      }
+      .messageItemComponent__content-date{
+        padding-left: 10px;
+        color: gray;
+      }
+    }
+  }
+}
+
+.messageItemComponent__position-right{
+  margin: 20px 10px;
+  display: flex;
+  justify-content: flex-end;
+  .messageItemComponent__position-block{
+    display: grid;
+    .messageItemComponent__content{
+      display: grid;
+      grid-template-rows: 1fr 10px;
+      .messageItemComponent__content-message{
+        margin: 5px;
+        padding: 10px;
+        border-radius: 20px;
+        background-color: #cec9c9;
+      }
+      .messageItemComponent__content-date{
+        display: flex;
+        justify-content: flex-end;
+        padding-right: 10px;
+        color: gray;
+      }
+    }
+  }
+}

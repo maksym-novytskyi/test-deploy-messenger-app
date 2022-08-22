@@ -1,0 +1,14 @@
+.appComponent {
+  display: flex;
+  flex-direction: row;
+  min-height: 100px;
+  max-height: 1000px;
+
+  .chooseDialog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

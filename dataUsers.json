@@ -1,0 +1,290 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userName": "Lera Chebun",
+      "img": "https://as1.ftcdn.net/v2/jpg/01/16/24/44/1000_F_116244459_pywR1e0T3H7FPk3LTMjG6jsL3UchDpht.jpg",
+      "isOnline": true,
+      "messages": [
+        {
+          "messageId": "iNm1jsNo1SUi9dzqXa83l",
+          "date": 1661137526064,
+          "text": "Hallo, lets go for a walk",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "r2Y4_ojmNrLPBt7Z4VVuD",
+          "date": 1661137527428,
+          "text": "This is a web site for NEW AND ONLY NEW Chuck Norris Facts.If Chuck Norris finds out(and he will find out) you have posted one that you read or heard....Beg for Merciful God to take you and not Chuck Norris",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "eQlR4pkrQJlccSxLFsP3a",
+          "date": 1661153191427,
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "8iD_YUNkr0WZQfo_HLnzu",
+          "date": 1661153192837,
+          "text": "Chuck Norris can cut air.",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "v_Jg8RxNd756piGL4B8iC",
+          "date": 1661153217564,
+          "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "orsg3TEUpcIGRxbJ3MYMj",
+          "date": 1661153218760,
+          "text": "When Chuck Norris was 8, he had to have his dad pick him up from school. Chucks car had broken down and was in the shop for repairs.",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "pJ0JzZ-HlKQDr0AFSAMnN",
+          "date": 1661153270352,
+          "text": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "UPQ6AfG6kaGsRLiDdhRg-",
+          "date": 1661153271607,
+          "text": "when Chuck Norris had sex with a waitress he spermed and created hurricane katrina",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "W6JWa7ulIibG4DlVdNAHB",
+          "date": 1661153292904,
+          "text": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "IVX0TUK7H6qIX1E74dosH",
+          "date": 1661153294088,
+          "text": "Chuck Norris always has sex on the first date. Always.",
+          "isRead": true,
+          "isIncoming": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userName": "Ivan Boronuk",
+      "img": "https://img.freepik.com/premium-vector/man-avatar-profile-round-icon_24640-14044.jpg?w=2000",
+      "isOnline": true,
+      "messages": [
+        {
+          "messageId": "2GLg9t1L4E5vxFCAxM5Yz",
+          "date": 1661153469993,
+          "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "JxEuKT9_wU98Y4QkzF8Tf",
+          "date": 1661153471354,
+          "text": "your life will flash before your eyes. that means Chuck Norris has roundhoused you",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "JNe3P7Leqiy6n7MhISBjl",
+          "date": 1661153491769,
+          "text": "Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "F50TxK9rJje3rv5hhOI0M",
+          "date": 1661153492962,
+          "text": "Chuck Norris was manufactured in Switzerland & is the world's only automaton killing machine ever assembled.",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "chHo0DdTHHqn6EvLmRl1t",
+          "date": 1661153506240,
+          "text": "accompanied by English versions from the 1914 translation by H. Rackham.",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "u_x7zbGKt4Fretdm0fj5u",
+          "date": 1661153507453,
+          "text": "A signed picture of Chuck Norris' last colonoscopy now fetches over twenty thousand US dollars on Ebay.",
+          "isRead": true,
+          "isIncoming": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "userName": "Dima cuctus",
+      "img": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=2000",
+      "isOnline": true,
+      "messages": [
+        {
+          "messageId": "6jgSW8vrci-skNlpvui-n",
+          "date": 1661137241151,
+          "text": "How are you?",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "HH2CEkzULZoShp9_bYJtH",
+          "date": 1661137253002,
+          "text": "They haven't perfected cloning yet because when they cloned Chuck Norris, his clone couldn't fly.",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "IrAefCCh7Z87i9IMBSptE",
+          "date": 1661153421284,
+          "text": "Contrary to popular belief, Lorem Ipsum is not simply random text.",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "iwkGsjE0ldYHnwKLRK9vy",
+          "date": 1661153422638,
+          "text": "Chuck Norris is the only person who can divide by 0.",
+          "isRead": true,
+          "isIncoming": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "userName": "Taras Volkov",
+      "img": "https://www.w3schools.com/howto/img_avatar.png",
+      "isOnline": true,
+      "messages": [
+        {
+          "messageId": "ZBkQJ0myaWLLX3dynZ0GU",
+          "date": 1661137377171,
+          "text": "Tell me new joke ",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "HoJS6_qcz8i9EqZ27k1Mc",
+          "date": 1661137378526,
+          "text": "Chuck Norris scratches that hard-to-reach spot on his back with his chin stubble.",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "7RLRGDYDaL4DkYRA8Lucg",
+          "date": 1661137405786,
+          "text": "Tell me new joke, one more",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "EYV4YCIJ2BKjH4RGSEBhz",
+          "date": 1661137406978,
+          "text": "Chuck Norris was on safari in Africa when his rifle jammed. He still took his trophy lion by chasing it down and choking it out with his bare hands.",
+          "isRead": true,
+          "isIncoming": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "userName": "Anna Filatova",
+      "img": "https://www.w3schools.com/howto/img_avatar2.png",
+      "isOnline": true,
+      "messages": [
+        {
+          "messageId": "t_aJg0ol569GGJuY0EjDf",
+          "date": 1661137432993,
+          "text": "Tell me new joke",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "dyVpOlW38ysZNXR9igQTN",
+          "date": 1661137434201,
+          "text": "Chuck Norris was once in a knife fight, and the knife lost.",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "TmfE_koaLzZfBgrtrP8WN",
+          "date": 1661137443657,
+          "text": "Tell me new joke, please",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "czgzdiie7lZgwHLGBlN2g",
+          "date": 1661137444851,
+          "text": "Chuck Norris can speak French....in Russian",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "YPMhBur659TADT_ZYOdng",
+          "date": 1661137454232,
+          "text": "One more",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "a7_xldFv_mdaCzMTRnZZK",
+          "date": 1661137455432,
+          "text": "Chuck Norris put 5 of his good friends in the hospital, after they challenged him to a pillow fight.",
+          "isRead": true,
+          "isIncoming": true
+        },
+        {
+          "messageId": "Jbhx8ZR38wzxgwcnW4CoD",
+          "date": 1661153351627,
+          "text": " Where does it come from?",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "MEwXKiI-gplh0_HMDNHhP",
+          "date": 1661153352990,
+          "text": "Peace disturbs Chuck Norris.",
+          "isRead": true,
+          "isIncoming": true
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "userName": "leonid Ivanov",
+      "img": "https://i.pinimg.com/736x/f5/27/41/f52741fb62bf1d821948a49204406bdc.jpg",
+      "isOnline": true,
+      "messages": [
+        {
+          "messageId": "eQlR4pkrQJlccSxLFsP3a",
+          "date": 1661153191427,
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "isRead": true,
+          "isIncoming": false
+        },
+        {
+          "messageId": "8iD_YUNkr0WZQfo_HLnzu",
+          "date": 1661153192837,
+          "text": "Chuck Norris can cut air.",
+          "isRead": true,
+          "isIncoming": true
+        }
+      ]
+    }
+  ]
+}

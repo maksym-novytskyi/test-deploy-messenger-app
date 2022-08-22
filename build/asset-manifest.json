@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-deploy-messenger-app/static/css/main.3c706e5a.css",
+    "main.js": "/test-deploy-messenger-app/static/js/main.922ab63d.js",
+    "static/media/notificationSound.mp3": "/test-deploy-messenger-app/static/media/notificationSound.8f2ebec04dbe97624e41.mp3",
+    "static/media/onlineStatus.png": "/test-deploy-messenger-app/static/media/onlineStatus.a8d20cd48e2e0d022083.png",
+    "index.html": "/test-deploy-messenger-app/index.html",
+    "main.3c706e5a.css.map": "/test-deploy-messenger-app/static/css/main.3c706e5a.css.map",
+    "main.922ab63d.js.map": "/test-deploy-messenger-app/static/js/main.922ab63d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c706e5a.css",
+    "static/js/main.922ab63d.js"
+  ]
+}
